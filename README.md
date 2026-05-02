@@ -1,4 +1,4 @@
-# Save-System
+# What is uEasy-Save-System
 A Save system for Unity aimed at artists and designers.
 See the SaveSystem Folder for more indepth documemation on how to use this. 
 
